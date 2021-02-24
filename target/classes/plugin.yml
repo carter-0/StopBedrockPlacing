@@ -1,0 +1,7 @@
+name: StopBedrockPlacing
+version: 1.0
+main: me.carter.stopbedrockplacing.StopBedrockPlacing
+api-version: 1.16
+authors: [ Cart1r ]
+description: A Spigot Plugin to stop Bedrock Players from being able to place blocks infront of them without looking at the block they're placing it from
+website: twitter.com/_carter
